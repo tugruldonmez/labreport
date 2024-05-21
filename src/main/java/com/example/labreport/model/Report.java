@@ -1,5 +1,5 @@
 // Report.java
-package model;
+package com.example.labreport.model;
 
 import jakarta.persistence.*;
 import java.time.LocalDate;

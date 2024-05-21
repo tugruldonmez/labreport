@@ -1,5 +1,5 @@
 // Laborant.java
-package model;
+package com.example.labreport.model;
 
 
 import jakarta.persistence.*;
